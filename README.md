@@ -1,6 +1,6 @@
-# 📘 Documentation: CANDU Reactor Temperature Monitor Simulation
+# Documentation: CANDU Reactor Temperature Monitor Simulation
 
-## 🔎 Introduction
+## Introduction
 
 Nuclear energy is one of the most powerful and fascinating technologies humans have ever developed. At the heart of this technology lies the **reactor core**, where the splitting of uranium atoms releases an immense amount of energy in the form of **heat**.
 
@@ -12,7 +12,7 @@ Our program brings a small piece of that excitement to life. While not a full re
 
 ---
 
-## 🎯 Purpose of the Program
+## Purpose of the Program
 
 The purpose of this program is to:
 
@@ -23,7 +23,7 @@ The purpose of this program is to:
 
 ---
 
-## ⚙️ How It Works
+## How It Works?
 
 1. **Physics Model**
 
@@ -63,18 +63,18 @@ The purpose of this program is to:
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔴 **Fuel temperature monitor** (red text on GUI).
-* 🔵 **Coolant temperature monitor** (blue text on GUI).
-* 🖼️ **Background image** to make the GUI visually appealing (e.g., reactor schematic).
-* 📊 **Embedded live graph** that updates along with simulation progress.
-* ⏱️ **Real-time updates** every 200 ms.
-* 🎓 **Educational value**: Helps learners visualize how nuclear fuel and coolant interact in a reactor environment.
+* **Fuel temperature monitor** (red text on GUI).
+* **Coolant temperature monitor** (blue text on GUI).
+* **Background image** to make the GUI visually appealing (e.g., reactor schematic).
+* **Embedded live graph** that updates along with simulation progress.
+* **Real-time updates** every 200 ms.
+* **Educational value**: Helps learners visualize how nuclear fuel and coolant interact in a reactor environment.
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 
 * Python 3.8+
 * Libraries:
@@ -85,7 +85,7 @@ The purpose of this program is to:
 
 ---
 
-## ▶️ How to Run
+## How to Run?
 
 1. Save the code into a file, e.g., `reactor_cooling_sim.py`.
 2. Place your background image (`candu_reactor.png`) inside an `images/` folder.
@@ -102,7 +102,7 @@ The purpose of this program is to:
 
 ---
 
-## 🌟 Why This is Exciting
+## Why This is Exciting?
 
 This program gives you a **front-row seat** to the inner workings of a nuclear reactor — safely, on your computer screen!
 
