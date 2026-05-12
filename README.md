@@ -6,7 +6,7 @@ Nuclear energy is one of the most powerful and fascinating technologies humans h
 
 Canada is home to one of the most innovative nuclear reactor designs in the world: the **CANDU reactor** (CANada Deuterium Uranium). Unlike most reactors, the CANDU uses **natural uranium** as fuel and **heavy water (deuterium oxide)** as both moderator and coolant. This makes it highly efficient, flexible, and a cornerstone of clean electricity generation in Canada.
 
-Imagine standing before this engineering marvel — **a machine that controls the raw power of atomic fission** and turns it into clean, reliable electricity for millions of homes.
+Imagine standing before this engineering marvel, **a machine that controls the raw power of atomic fission** and turns it into clean, reliable electricity for millions of homes.
 
 Our program brings a small piece of that excitement to life. While not a full reactor simulation, it models **heat transfer** inside a nuclear system, showing how **fuel temperature** and **coolant temperature** evolve over time. Even better, it visualizes the process through a live graph and a graphical user interface (GUI), giving you a window into the invisible but critical thermal dance happening inside a reactor.
 
@@ -51,7 +51,7 @@ The purpose of this program is to:
 4. **GUI Visualization**
 
    * Built with **Tkinter**.
-   * Displays a **background image** (e.g., diagram of a CANDU reactor).
+   * Displays a **background image** (i.e., diagram of a CANDU reactor).
    * Two text overlays show **fuel temperature** (red) and **coolant temperature** (blue).
    * Values update live every 200 ms.
 
@@ -67,7 +67,7 @@ The purpose of this program is to:
 
 * **Fuel temperature monitor** (red text on GUI).
 * **Coolant temperature monitor** (blue text on GUI).
-* **Background image** to make the GUI visually appealing (e.g., reactor schematic).
+* **Background image** to make the GUI visually appealing.
 * **Embedded live graph** that updates along with simulation progress.
 * **Real-time updates** every 200 ms.
 * **Educational value**: Helps learners visualize how nuclear fuel and coolant interact in a reactor environment.
@@ -104,8 +104,8 @@ The purpose of this program is to:
 
 ## Why This is Exciting?
 
-This program gives you a **front-row seat** to the inner workings of a nuclear reactor — safely, on your computer screen!
+This program gives you a **front-row seat** to the inner workings of a nuclear reactor safely, on your computer screen!
 
 While real reactors involve extremely complex physics and safety systems, this simplified model captures the **essence of reactor cooling**: fuel gets hot, coolant takes the heat away, and stability is achieved through balance.
 
-If you’ve ever wondered *“what does a reactor actually do?”* — this program makes that invisible process visible.
+If you’ve ever wondered *“what does a reactor actually do?”*, this program makes that invisible process visible.
